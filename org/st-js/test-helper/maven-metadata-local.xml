@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.st-js</groupId>
+  <artifactId>test-helper</artifactId>
+  <versioning>
+    <release>3.0.1-knorxx</release>
+    <versions>
+      <version>3.0.1-knorxx</version>
+    </versions>
+    <lastUpdated>20141030194209</lastUpdated>
+  </versioning>
+</metadata>
